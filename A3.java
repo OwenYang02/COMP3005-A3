@@ -12,7 +12,7 @@ public class A3{
 
     static String url = "jdbc:postgresql://localhost:5432/a3";
     static String user = "postgres";
-    static String password = "Oy6138183599!";
+    static String password = "password";// temp password -> actual password found in description of yt vid
     
     // connect application to my postgresql database 
     public static void setUpDB(){
